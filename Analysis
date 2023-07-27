@@ -1,0 +1,9 @@
+# Analysis
+
+1)The code shows a basic implementation of Linear Regression for predicting salaries based on years of experience.
+2)The dataset seems to be small, containing only a few data points, which might limit the model's accuracy and generalization.
+3)Since the dataset is small and the data is synthetic (provided as a list), it's not suitable for real-world applications.
+4)The model's performance might not be highly reliable due to the limited data and the absence of a validation set.
+5)If we want to use this code for real-world scenarios, it's essential to have a larger and diverse dataset for more accurate predictions.
+6)We can further enhance the analysis by exploring more advanced regression techniques, feature engineering, and hyperparameter tuning to improve the model's performance.
+7)I couldn't explore any other ML model due to lack in more active knowledge and time duration.
